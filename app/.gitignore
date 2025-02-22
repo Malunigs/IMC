@@ -1,0 +1,9 @@
+# Ignorar archivos de compilación y dependencias
+.gradle/
+/build/
+/app/build/
+/local.properties
+/.idea/
+.DS_Store
+*.iml
+/.cxx/
