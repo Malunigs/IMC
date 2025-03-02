@@ -13,14 +13,13 @@
  Usa **Jetpack Compose** para una interfaz moderna.
 
 ## Screenshots
+![app general](images/cap1.jpg)
 
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\cap1.jpg)
+![peso normal](images/normalcap.JPG)
 
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\normalcap.JPG)
+![bajopeso](images/bajopesocap.JPG)
 
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\bajopesocap.JPG)
-
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\sobrepesocap.JPG)
+![sobrepeso](images/sobrepesocap.JPG)
 
 ## Estructura
   - MainActivity.kt → La actividad principal que carga la interfaz.
