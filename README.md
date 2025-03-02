@@ -12,21 +12,31 @@
    - 🔴 **Sobrepeso**  
  Usa **Jetpack Compose** para una interfaz moderna.
 
-## Screenshots
-
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\cap1.jpg)
-
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\normalcap.JPG)
-
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\bajopesocap.JPG)
-
-![App Screenshot](C:\Users\MarinaGutierrezSanch\AndroidStudioProjects\IMC_MarinaGS\caps\sobrepesocap.JPG)
-
 ## Estructura
   - MainActivity.kt → La actividad principal que carga la interfaz.
   - IMCLayout.kt → Composable que contiene los inputs y botones.
   - calculateIMC() → Función que calcula el IMC.
   - categorizeIMC() → Función que clasifica el resultado.
+
+## Screenshots
+
+![app general](images/cap1.jpg)
+
+![peso normal](images/normalcap.JPG)
+
+![bajopeso](images/bajopesocap.JPG)
+
+![sobrepeso](images/sobrepesocap.JPG)
+
+![MainAct](images/mainactivity.JPG)
+
+![IMC1](images/IMC1.JPG)
+
+![IMC2](images/IMC2.JPG)
+
+![Calculate](images/calculate.JPG)
+
+![Categ](images/categorize.JPG)
 
 ## Pruebas unitarias
 El proyecto incluye pruebas unitarias para validar los cálculos del IMC.
